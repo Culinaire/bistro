@@ -12,6 +12,12 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {},
+    "replace": {
+      "boxgrater/ingredients": "self.version",
+      "boxgrater/merchants": "self.version",
+      "boxgrater/products": "self.version",
+      "boxgrater/recipes": "self.version"      
+    },
     "autoload": {
       "psr-4": {
         "BoxGrater\\": "src/BoxGrater/"
