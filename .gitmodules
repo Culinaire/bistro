@@ -1,0 +1,12 @@
+[submodule "src/Recipes"]
+	path = src/Recipes
+	url = github-boxgrater:boxgrater/recipes.git
+[submodule "src/Products"]
+	path = src/Products
+	url = github-boxgrater:boxgrater/products.git
+[submodule "src/Merchants"]
+	path = src/Merchants
+	url = github-boxgrater:boxgrater/merchants.git
+[submodule "src/Ingredients"]
+	path = src/Ingredients
+	url = github-boxgrater:boxgrater/ingredients.git
