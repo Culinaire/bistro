@@ -1,0 +1,19 @@
+{
+    "name": "culinaire/bistro",
+    "description": "The Bistro Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank McCoy",
+            "email": "frankmccoy.d@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "BoxGrater\\": "src/"
+      }
+    }
+}
